@@ -1,0 +1,4 @@
+Item,Quantity,PriceGbp,ItemType,Imported
+book,1,12.49,Book,FALSE
+music CD,1,14.99,,FALSE
+chocolate bar,1,0.85,Food,FALSE

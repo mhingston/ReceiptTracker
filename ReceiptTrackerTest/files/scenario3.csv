@@ -1,0 +1,5 @@
+Item,Quantity,PriceGbp,ItemType,Imported
+imported bottle of perfume,1,27.99,,TRUE
+bottle of perfume,1,18.99,,FALSE
+packet of headache pills,1,9.75,Medical,FALSE
+imported box of chocolates,1,11.25,Food,TRUE

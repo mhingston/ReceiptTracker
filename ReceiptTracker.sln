@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptTrackerTest", "ReceiptTrackerTest\ReceiptTrackerTest.csproj", "{A65E3FB4-F452-4F68-A247-4DD303126572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptTrackerLibrary", "ReceiptTrackerLibrary\ReceiptTrackerLibrary.csproj", "{76BAB07B-7950-48FA-AEB6-280F4DADBA29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptTrackerApp", "ReceiptTrackerApp\ReceiptTrackerApp.csproj", "{384A9260-23CE-43FE-8D11-ABBF4414D276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65E3FB4-F452-4F68-A247-4DD303126572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65E3FB4-F452-4F68-A247-4DD303126572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65E3FB4-F452-4F68-A247-4DD303126572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65E3FB4-F452-4F68-A247-4DD303126572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76BAB07B-7950-48FA-AEB6-280F4DADBA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76BAB07B-7950-48FA-AEB6-280F4DADBA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76BAB07B-7950-48FA-AEB6-280F4DADBA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76BAB07B-7950-48FA-AEB6-280F4DADBA29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{384A9260-23CE-43FE-8D11-ABBF4414D276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384A9260-23CE-43FE-8D11-ABBF4414D276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384A9260-23CE-43FE-8D11-ABBF4414D276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384A9260-23CE-43FE-8D11-ABBF4414D276}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

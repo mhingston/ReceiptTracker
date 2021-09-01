@@ -1,0 +1,12 @@
+/home/mark/RiderProjects/ReceiptTracker/ReceiptTrackerLibrary/bin/Debug/net5.0/ReceiptTrackerLibrary.deps.json
+/home/mark/RiderProjects/ReceiptTracker/ReceiptTrackerLibrary/bin/Debug/net5.0/ReceiptTrackerLibrary.dll
+/home/mark/RiderProjects/ReceiptTracker/ReceiptTrackerLibrary/bin/Debug/net5.0/ref/ReceiptTrackerLibrary.dll
+/home/mark/RiderProjects/ReceiptTracker/ReceiptTrackerLibrary/bin/Debug/net5.0/ReceiptTrackerLibrary.pdb
+/home/mark/RiderProjects/ReceiptTracker/ReceiptTrackerLibrary/obj/Debug/net5.0/ReceiptTrackerLibrary.csproj.AssemblyReference.cache
+/home/mark/RiderProjects/ReceiptTracker/ReceiptTrackerLibrary/obj/Debug/net5.0/ReceiptTrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/mark/RiderProjects/ReceiptTracker/ReceiptTrackerLibrary/obj/Debug/net5.0/ReceiptTrackerLibrary.AssemblyInfoInputs.cache
+/home/mark/RiderProjects/ReceiptTracker/ReceiptTrackerLibrary/obj/Debug/net5.0/ReceiptTrackerLibrary.AssemblyInfo.cs
+/home/mark/RiderProjects/ReceiptTracker/ReceiptTrackerLibrary/obj/Debug/net5.0/ReceiptTrackerLibrary.csproj.CoreCompileInputs.cache
+/home/mark/RiderProjects/ReceiptTracker/ReceiptTrackerLibrary/obj/Debug/net5.0/ReceiptTrackerLibrary.dll
+/home/mark/RiderProjects/ReceiptTracker/ReceiptTrackerLibrary/obj/Debug/net5.0/ref/ReceiptTrackerLibrary.dll
+/home/mark/RiderProjects/ReceiptTracker/ReceiptTrackerLibrary/obj/Debug/net5.0/ReceiptTrackerLibrary.pdb

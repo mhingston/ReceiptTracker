@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BTiEAp21u39eRYgRVYjtIjyG57pN9vduy0zsf7+ZM5yYzl7Tp8sB2Lhj/bRd4iIBM4S7DYvCsovdbDIUsd2vWQ==",
+  "success": true,
+  "projectFilePath": "/home/mark/RiderProjects/ReceiptTracker/ReceiptTrackerLibrary/ReceiptTrackerLibrary.csproj",
+  "expectedPackageFiles": [
+    "/home/mark/.nuget/packages/csvhelper/27.1.1/csvhelper.27.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
